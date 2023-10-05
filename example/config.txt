@@ -1,0 +1,3 @@
+Prefix plugins/Bracken/example/
+Plugin Bracken inputfile parameters.txt outputfile sample-abundance.txt
+
